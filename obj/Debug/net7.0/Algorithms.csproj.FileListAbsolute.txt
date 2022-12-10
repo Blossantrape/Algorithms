@@ -1,0 +1,15 @@
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\bin\Debug\net7.0\Algorithms.exe
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\bin\Debug\net7.0\Algorithms.deps.json
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\bin\Debug\net7.0\Algorithms.runtimeconfig.json
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\bin\Debug\net7.0\Algorithms.dll
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\bin\Debug\net7.0\Algorithms.pdb
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\obj\Debug\net7.0\Algorithms.csproj.AssemblyReference.cache
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\obj\Debug\net7.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\obj\Debug\net7.0\Algorithms.AssemblyInfoInputs.cache
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\obj\Debug\net7.0\Algorithms.AssemblyInfo.cs
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\obj\Debug\net7.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\obj\Debug\net7.0\Algorithms.dll
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\obj\Debug\net7.0\refint\Algorithms.dll
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\obj\Debug\net7.0\Algorithms.pdb
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\obj\Debug\net7.0\Algorithms.genruntimeconfig.cache
+C:\Developer\Repositories\RepositoryVSCode\Algorithms\obj\Debug\net7.0\ref\Algorithms.dll
