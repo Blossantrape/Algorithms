@@ -1,10 +1,9 @@
 namespace Algorithms
 {
-    class AddClass
+    class BianrySearchClass
     { 
         public int? BinarySearch(List<int> list, int item)
         {
-            
             int low = 0;
             int high = list.Count - 1;
             
